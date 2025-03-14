@@ -1,0 +1,39 @@
+_repo: An-account-of-the-giants-lately-discovered-b-In-a-letter-to-a-friend-in-the-country_75432
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walpole, Horace
+    aliases:
+    - Orford, Horace Walpole, Earl of
+    - Walpole, Horatio
+    - Marshall, William
+    - Muralto, Onuphrio
+    birthdate: 1717
+    deathdate: 1797
+    gutenberg_agent_id: '358'
+    url: http://www.gutenberg.org/2009/agents/358
+    wikipedia: https://en.wikipedia.org/wiki/Horace_Walpole%2C_4th_Earl_of_Orford
+description: A satire on John Byron's "Account of a voyage around the world".
+gutenberg_issued: '2025-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75432'
+  lccn: '24006625'
+language: en
+pgterms:marc905: 20241215184620anonymous
+pgterms:marc906: '1766'
+pgterms:marc907: GB
+production_note: Robert Tonsing and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bF. Noble, $c1766.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patagonia (Argentina and Chile)'
+- !lcsh 'Byron, John, 1723-1786'
+- !lcc 'PR'
+- GITenberg
+title: 'An account of the giants lately discovered : $b In a letter to a friend in
+  the country'
+url: http://www.gutenberg.org/ebooks/75432
